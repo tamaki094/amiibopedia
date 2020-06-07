@@ -10,19 +10,32 @@ using Xamarin.Forms;
 
 namespace Amiibopedia.ViewModels
 {
-    public class MainPageViewModel :BaseViewModel
+    public class MainPageViewModel : BaseViewModel
     {
+        private ObservableCollection<Amiibo> amiibos;
+
         public ObservableCollection<Character> Characters { get; set; }
-        public ObservableCollection<Amiibo> Amiibos { get; set; }
+        
+        public ObservableCollection<Amiibo> Amiibos
+        {
+            get => amiibos;
+            set
+            {
+                amiibos = value;
+                OnPropertyChanged();
+            }
+        }
         public ICommand SearchCommand { get; set; }
 
         public MainPageViewModel()
         {
+           
             SearchCommand =
                 new Command(async (param) =>
                 {
+                    IsBusy = true;
                     var character = param as Character;
-                    if(character != null)
+                    if (character != null)
                     {
                         string url = $"https://www.amiiboapi.com/api/amiibo/?character={character.name}";
                         var service = new HttpHelper<Amiibos>();
@@ -30,8 +43,7 @@ namespace Amiibopedia.ViewModels
                             await service.GetRestServiceDataAsync(url);
                         Amiibos = new ObservableCollection<Amiibo>(amiibos.amiibo);
                     }
-                  
-
+                    IsBusy = false;
                 });
         }
 

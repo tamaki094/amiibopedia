@@ -58,3 +58,10 @@ C:\Users\edria\source\repos\Amiibopedia\Amiibopedia\Amiibopedia.iOS\obj\iPhone\D
 C:\Users\edria\source\repos\Amiibopedia\Amiibopedia\Amiibopedia.iOS\obj\iPhone\Debug\Amiibopedia.iOS.exe
 C:\Users\edria\source\repos\Amiibopedia\Amiibopedia\Amiibopedia.iOS\obj\iPhone\Debug\Amiibopedia.iOS.pdb
 C:\Users\edria\source\repos\Amiibopedia\Amiibopedia\Amiibopedia.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+C:\Users\edria\source\repos\Amiibopedia\Amiibopedia\Amiibopedia.iOS\bin\iPhone\Debug\Syncfusion.Licensing.dll
+C:\Users\edria\source\repos\Amiibopedia\Amiibopedia\Amiibopedia.iOS\bin\iPhone\Debug\Syncfusion.Core.XForms.dll
+C:\Users\edria\source\repos\Amiibopedia\Amiibopedia\Amiibopedia.iOS\bin\iPhone\Debug\Syncfusion.Core.XForms.iOS.dll
+C:\Users\edria\source\repos\Amiibopedia\Amiibopedia\Amiibopedia.iOS\bin\iPhone\Debug\Syncfusion.SfAutoComplete.XForms.dll
+C:\Users\edria\source\repos\Amiibopedia\Amiibopedia\Amiibopedia.iOS\bin\iPhone\Debug\Syncfusion.SfAutoComplete.XForms.iOS.dll
+C:\Users\edria\source\repos\Amiibopedia\Amiibopedia\Amiibopedia.iOS\bin\iPhone\Debug\Syncfusion.SfAutoComplete.iOS.dll
+C:\Users\edria\source\repos\Amiibopedia\Amiibopedia\Amiibopedia.iOS\bin\iPhone\Debug\Xamarin.Forms.BehaviorsPack.dll

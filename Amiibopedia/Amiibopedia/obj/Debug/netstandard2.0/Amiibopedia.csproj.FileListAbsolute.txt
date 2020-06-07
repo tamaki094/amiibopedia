@@ -9,6 +9,5 @@ C:\Users\edria\source\repos\Amiibopedia\Amiibopedia\Amiibopedia\obj\Debug\netsta
 C:\Users\edria\source\repos\Amiibopedia\Amiibopedia\Amiibopedia\obj\Debug\netstandard2.0\ref\Amiibopedia.dll
 C:\Users\edria\source\repos\Amiibopedia\Amiibopedia\Amiibopedia\obj\Debug\netstandard2.0\Amiibopedia.pdb
 C:\Users\edria\source\repos\Amiibopedia\Amiibopedia\Amiibopedia\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
-C:\Users\edria\source\repos\Amiibopedia\Amiibopedia\Amiibopedia\obj\Debug\netstandard2.0\Amiibopedia.csprojAssemblyReference.cache
 C:\Users\edria\source\repos\Amiibopedia\Amiibopedia\Amiibopedia\obj\Debug\netstandard2.0\Amiibopedia.csproj.CoreCompileInputs.cache
 C:\Users\edria\source\repos\Amiibopedia\Amiibopedia\Amiibopedia\obj\Debug\netstandard2.0\XamlC.stamp
